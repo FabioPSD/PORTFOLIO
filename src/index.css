@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+.nav__logo-h span
+{
+    font-family: 'Clicker Script', cursive;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.footer__logo span{
+    font-family: 'Clicker Script', cursive;
+    font-size: 30px;
+    font-weight: 700;
+}
